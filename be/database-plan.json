@@ -1,0 +1,42 @@
+"inventory" = {
+    "address": "hskjhskhskj",
+    "stock": [ 
+        {
+            "sport": "hockey",
+            "sub-categories": [
+                {
+                    "sub-category": "Hockey-Stick",
+                    "items": [
+                        {
+                            "id": 1,
+                            "brand": "All-star hockey sticks",
+                            "scanned-in": "10:55am, 10/01/19",
+                            "scanned-out": null,
+                            "pending-delivery": false
+                        },
+                        {
+                            "id": 2,
+                            "brand": "All-star hockey sticks",
+                            "scanned-in": "10:56am, 10/01/19",
+                            "scanned-out": null,
+                            "pending-delivery": false
+                        }
+                    ]
+                },
+                {
+                    "sub-category": "clothing"
+                    "items": [
+                        {
+                            "id": 1,
+                            "brand": "Nike",
+                            "type": "shirt", 
+                            "scanned-in": "10:55am, 10/01/19",
+                            "scanned-out": null,
+                            "pending-delivery": false
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
